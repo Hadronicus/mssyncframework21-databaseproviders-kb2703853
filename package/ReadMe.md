@@ -1,0 +1,1 @@
+﻿Do not distribute this package or the contents within. Contains binaries from Microsoft.
